@@ -10,12 +10,12 @@ h2{font-family: "Times New Roman";/* Second header characteristics */
   padding-bottom: 15px}
 h3{font-family: "Times New Roman";/* Third header characteristics */
   font-size: 35px;
-  text-align: center
+  text-align: left
   }
 h1,h2,h3,p /* Grouped characteristics */
 {display:block;
   list-style-position: inside;
-  text-align: center;
+  text-align: left;
   }
 .About1{text-align:center; /* Class for about section */
   list-style-position: inside;
